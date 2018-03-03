@@ -1,0 +1,39 @@
+body{
+  background: #0278AE;
+  color: black;
+  font-size: 25px;
+  font-family: Bree Serif;
+}
+h1{
+  font-family: Bree Serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+  border: 3px dashed black;
+  border-radius: 5px;
+}
+h2 {
+  font-family: Bree Serif;
+  color: #6B0848;
+  font-weight: lighter;
+  text-decoration: underline;
+  font-size: 25px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+p{
+  text-decoration:
+  color:
+
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  }
+  
